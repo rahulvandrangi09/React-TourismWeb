@@ -95,7 +95,7 @@ html {
 
 #about {
   height: 100vh;
-  background-image: url("../Images/background-2\ \(2\).jpg");
+  background-image: url("../Images/background-2.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -414,7 +414,7 @@ html {
 
 #contact {
   height: 100vh;
-  background-image: url("../Images/BackGround-5\ -\ New.jpg");
+  background-image: url("../Images/BackGround-5.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
