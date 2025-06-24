@@ -1,12 +1,34 @@
-# React + Vite
+# 🌍 React Tourism Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive tourism-themed website built with React, designed primarily for **larger screens** like desktops and tablets. It features beautiful visuals, informative sections, and smooth navigation to help users explore destinations with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🖥️ **Optimized for Larger Screens** – Clean, spacious layout designed for desktop and tablet viewports.
+- 🧭 **Multi-Section Landing Page** – Explore destinations, featured experiences, contact, and more.
+- 📸 **Image-Rich UI** – Visual appeal with high-quality travel images.
+- ⚡ **Fast Performance** – Powered by React for smooth client-side routing and rendering.
+- 🌐 **Responsive Navbar** – Stays fixed and adapts cleanly to large displays.
+- 🎨 **Modern UI** – Built with CSS modules or Tailwind for organized, scalable styling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Languages Used
+
+- **JavaScript** – Core programming language
+- **JSX** – For component-based structure in React
+- **CSS** – For layout, animations, and styling
+- **HTML** – For semantic structure through JSX
+
+---
+
+## 🔌 APIs Used
+
+You can customize this section depending on what you've integrated. Here’s a structure with placeholders:
+
+- **[Unsplash API](https://unsplash.com/developers)** – For fetching travel-related images *(optional)*
+- **[OpenWeatherMap API](https://openweathermap.org/api)** – To display weather info for travel destinations
+- **[GeoMapsApi](https://www.geoapify.com/)** - To gather the info by specifying place name
+- **[Mapbox / Google Maps API](https://developers.google.com/maps/)** – For embedding maps of tourist locations
